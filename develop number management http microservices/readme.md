@@ -9,5 +9,5 @@ To set up and run the Number Management Service, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone 
-   cd number-management-service
+   git clone https://github.com/PAAYAS/CH.EN.U4AIE20046.git
+   cd develop-number-management-http-microservices
