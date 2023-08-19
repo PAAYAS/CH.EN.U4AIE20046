@@ -1,0 +1,58 @@
+/* Reset some default browser styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Global styling */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Train Card */
+  .train-card {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .train-card h3 {
+    margin-bottom: 10px;
+  }
+  
+  .train-card p {
+    margin: 5px 0;
+  }
+  
+  .train-card a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  /* Header */
+  .header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Footer */
+  .footer {
+    background-color: #ccc;
+    color: #333;
+    text-align: center;
+    padding: 10px;
+  }
+  
